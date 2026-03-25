@@ -19,7 +19,7 @@ Presentation: Gamma AI (PPT generation) and Microsoft Word (Reporting).
 Handled 37 missing values in the Review Rating column by using category medians. \
 Standardized columns to snake case and dropped redundant features like promo_code_used. \
 Engineered new features including age_group and purchase_frequency_days. 
-### SQL Analysis: \Migrated the cleaned data to PostgreSQL for structured business queries. 
+### SQL Analysis: Migrated the cleaned data to PostgreSQL for structured business queries. 
 Calculated total revenue by gender and identified high-spending discount users. \
 Segmented customers into New, Returning, and Loyal based on purchase history. 
 ### Visualization (Power BI): 
